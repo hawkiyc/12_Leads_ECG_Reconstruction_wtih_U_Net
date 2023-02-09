@@ -1,7 +1,7 @@
 
 # 12 Leads ECG Signal Reconstruction from DII Lead
 
-12 Leads ECG is essential for examining cardo status. However, most comeerical grade products only measure DII Lead signal. And so, Reconstructed 12 Leads ECG Signal maight be a better solution for identifying arrhythmia for data collected by smart devices. Here I bulid a Deep Learning model with U-Net Architecture for this specific task.
+12 Leads ECG is essential for examining cardio status. However, most commercial-grade products only measure DII Lead signal. And so, Reconstructed 12 Leads ECG Signal might be a better solution for identifying arrhythmia for data collected by smart devices. Here I bulid a Deep Learning model with U-Net Architecture for this specific task.
 
 Here are reconstructed ECG charts of this model.
 ![ID_140](https://user-images.githubusercontent.com/76748651/215316913-71177605-43cb-460e-aac3-32e2fd8b34b5.png)
