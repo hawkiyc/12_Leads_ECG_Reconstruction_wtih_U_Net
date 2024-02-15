@@ -1,5 +1,5 @@
 
-# 12 Leads ECG Signal Reconstruction from DII Lead
+# 12 Leads ECG Signal Reconstruction from Single Lead
 
 12 Leads ECG is essential for examining cardio status. However, most commercial-grade products are unable to capture full 12 Leads ECG signal. And so, Reconstructed 12 Leads ECG Signal might be a better solution for identifying arrhythmia for data collected by smart devices. Here I bulid a Deep Learning model with U-Net Architecture for this specific task.
 
